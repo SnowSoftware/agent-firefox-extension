@@ -1,0 +1,12 @@
+{
+	"addons": {
+		"cloudmetering@snowsoftware.com": {
+			"updates": [
+				{
+					"version": "1.2.0",
+					"update_link": "https://github.com/SnowSoftware/agent-firefox-extension/blob/main/extension-1.2.0.xpi"
+				}
+			]
+		}
+	}
+}
