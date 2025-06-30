@@ -2,6 +2,13 @@
 
 Distribution repository for the Snow Cloudmetering extension for Firefox.
 
+## v1.2.5 2025-06-30
+
+### Changes
+
+* Now only reports URLs with a response code of between 200 and 299, inclusive.
+* Changed icons to Flexera.
+
 ## v1.2.3 2024-12-05
 
 ### Changes

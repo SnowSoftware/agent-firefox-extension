@@ -5,6 +5,10 @@
 				{
 					"version": "1.2.3",
 					"update_link": "https://raw.githubusercontent.com/SnowSoftware/agent-firefox-extension/refs/heads/main/cloudmetering-v1.2.3.xpi"
+				},
+				{
+					"version": "1.2.5",
+					"update_link": "https://raw.githubusercontent.com/SnowSoftware/agent-firefox-extension/refs/heads/main/cloudmetering-v1.2.5.xpi"
 				}
 			]
 		}
